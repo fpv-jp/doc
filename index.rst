@@ -13,5 +13,6 @@ FPV ドローンに関する日本語ドキュメントです。
    :maxdepth: 2
    :caption: Contents:
 
+   webrtc-fpv
    getting-started
 
